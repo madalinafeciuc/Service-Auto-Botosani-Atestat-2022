@@ -1,0 +1,14 @@
+C:\Users\filip\Desktop\Service Auto Atestat 2022\bin\Debug\Service Auto Atestat 2022.exe.config
+C:\Users\filip\Desktop\Service Auto Atestat 2022\bin\Debug\Service Auto Atestat 2022.exe
+C:\Users\filip\Desktop\Service Auto Atestat 2022\bin\Debug\Service Auto Atestat 2022.pdb
+C:\Users\filip\Desktop\Service Auto Atestat 2022\obj\Debug\Service Auto Atestat 2022.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Service Auto Atestat 2022\obj\Debug\Service_Auto_Atestat_2022.Menu.resources
+C:\Users\filip\Desktop\Service Auto Atestat 2022\obj\Debug\Service_Auto_Atestat_2022.Programare.resources
+C:\Users\filip\Desktop\Service Auto Atestat 2022\obj\Debug\Service_Auto_Atestat_2022.Properties.Resources.resources
+C:\Users\filip\Desktop\Service Auto Atestat 2022\obj\Debug\Service Auto Atestat 2022.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Service Auto Atestat 2022\obj\Debug\Service Auto Atestat 2022.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Service Auto Atestat 2022\obj\Debug\Service Auto Atestat 2022.exe
+C:\Users\filip\Desktop\Service Auto Atestat 2022\obj\Debug\Service Auto Atestat 2022.pdb
+C:\Users\filip\Desktop\Service Auto Atestat 2022\bin\Debug\EASendMail.dll
+C:\Users\filip\Desktop\Service Auto Atestat 2022\obj\Debug\Service Auto Atestat 2022.csproj.CopyComplete
+C:\Users\filip\Desktop\Service Auto Atestat 2022\obj\Debug\Service_Auto_Atestat_2022.Credite.resources
